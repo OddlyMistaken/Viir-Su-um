@@ -129,15 +129,15 @@ Please submit any issues to the discord in the appropriate support channel.
 
 
 ### Gameplay
-+ _Full list to come_
++ _Full list soon_
 + New Combat Mechanics
 
 ### Quests
-+ _Full list to come_
++ _Full list soon_
 
 ### New things
-+ _Full list to come_
-+ Custom Armor DISTR
++ _Full list soon_
++ Custom Armors's with race based DISTR
 
 
 </details>
