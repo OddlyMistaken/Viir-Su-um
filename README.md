@@ -15,7 +15,7 @@ A fresh new modlist with a vanilla feel featuring [NGVO](https://www.nexusmods.c
 <summary><h2>Installation</h2></summary>
 
 ### Pre-Installation
-For the Installation of Viir Su'um you must use the most recent version of Skyrim Anniversary Edition on steam and download all free Creation Club content
+For the Installation of Viir Su'um you must use the most recent version of Skyrim Anniversary Edition on steam and download all free Creation Club content **AND** the newest creation kit. 
 
 **This is only a requirment for the first install not when updating.**
 
@@ -26,7 +26,7 @@ For the Installation of Viir Su'um you must use the most recent version of Skyri
 
 #### Cleaning Skyrim
 
-Please uninstall Skyrim through Steam and delete the documents folder typically located at "Drive"\Documents\My Games\Skyrim Special Edition. Once this is finished you may reinstall Skyrim.
+Please uninstall Skyrim/CK through Steam and delete the documents folder typically located at "Drive"\Documents\My Games\Skyrim Special Edition. Once this is finished you may reinstall Skyrim/CK.
 **(This list uses a stock game folder and will download the correct versions of all files)**
 
 #### Starting Skyrim
