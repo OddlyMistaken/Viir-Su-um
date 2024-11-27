@@ -137,6 +137,11 @@ Please submit any issues to the discord in the appropriate support channel.
 
 ### New things
 + _Full list soon_
++ Three new races with new abilities and benefits
+  + Succubus
+  + Snow Elf
++ New Faction - Beseryk
+  + Allows for Werebear Transformation  
 + Custom Armors's with race based DISTR
 
 
