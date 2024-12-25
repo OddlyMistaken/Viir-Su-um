@@ -5,6 +5,8 @@ For help or discussion of Viir Su'um, please join our **[discord](https://discor
 
 _This Readme is still in development check back for updated info_
 
+**[Modlist.txt]https://loadorderlibrary.com/lists/viir-su-um**
+
 ## Summary
 
 A fresh new modlist with a vanilla feel featuring [NGVO](https://www.nexusmods.com/skyrimspecialedition/mods/119972) visuals thanks to [BiggieBoss's](https://www.youtube.com/@biggie_boss) beautiful modlist combined with new quests, locations, combat, and features with more to come. Based heavily off popular modlists with my own tweaks and slimmed down for a more simple experience. 
