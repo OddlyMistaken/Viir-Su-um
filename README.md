@@ -130,14 +130,35 @@ Please submit any issues to the discord in the appropriate support channel.
 
 ### Gameplay
 + _Full list soon_
++ Immersion
+  +  Requiem
+  +  Survival Mode Improved
+  +  Travel Mechanics FastTravel/Paragliding
+  +  Immersive First/Third Person Animations
+  +  Religion Mechanics
+  +  Vampire/Werewolf Overhaul
 + New Combat Mechanics
+  +  Archery Overhaul
+  +  MCO
+  +  Poise
+  +  Dodge Mechanics
++ New Magic
+ + Apocalypse
+ + KittyTails Magic 
 
 ### Quests
 + _Full list soon_
++ Most Vanilla Quest Expansions
++ Olenveld
++ Darkend
++ Sirenroot
++ Siege At Icemoth
++ Gravewind
++ Legends of Aetherium
 
 ### New things
 + _Full list soon_
-+ Three new races with new abilities and benefits
++ Two new races with new abilities and benefits
   + Succubus
   + Snow Elf
 + New Faction - Beseryk
