@@ -95,7 +95,7 @@ You may delete the downloads folder in the location you set during installion to
 
 Once the installation is complete open the output folder and launch **_ModOrganizer.exe_**. Check the top right corner and make sure "Viir Su'um" is listed in the dropdown and click **_RUN_**
 
-_Always run Viir Su'um through Mod Organizer_
+_Always run Viir Su'um through Mod Organizer and never click "UNLOCK"_
 
 Next set up your MCM Settings. 
 
