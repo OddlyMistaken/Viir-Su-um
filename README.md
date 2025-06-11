@@ -134,21 +134,23 @@ Please submit any issues to the discord in the appropriate support channel.
 + _Full list soon_
 + Immersion
   +  Requiem
-  +  Survival Mode Improved
-  +  Travel Mechanics FastTravel/Paragliding
-  +  Immersive First/Third Person Animations
+  +  SkyParkour/(coming soon)Paragliding
   +  Religion Mechanics (Wintersun)
-  +  Vampire/Werewolf Overhaul (Growl/Sacralidge)
+  +  Vampire/Werewolf Overhaul (Growl/Sacrilege)
   +  Hammer and Whetstone (Portable Tempering)
+  +  NPC Spell Variety AI
+  +  New Immersive Passive Critters in Areas
 + New Combat Mechanics
   +  BFCO
    + For Honor moveset (Converted no charge attacks) 
   +  Poise (for Staggering)
   +  Dodge Mechanics (Perk locked with both light and heavy options)
-    +  Including Bow (Dynamic Dodge Shot)
+    + Different dodge animations for combat/non-combat  
+    + Dynamic Dodge Shot (Perk Locked with only Evasion Perk Tree)
 + New Magic
+ + (tome distribution to npcs) 
   + Apocalypse
- +  
+ +  Survival Spells
 
 ### Quests
 + _Full list soon_
@@ -161,6 +163,7 @@ Please submit any issues to the discord in the appropriate support channel.
 + 
 
 ### New things
++ **(ALL COMING SOON)**
 + _Full list soon_
 + Two new races with new abilities and benefits
   + Succubus
