@@ -1,5 +1,5 @@
 # Viir Su'um
-![alt text](https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/ViirSu'um.png)
+![alt text](https://github.com/OddlyMistaken/Viir-Su-um/blob/3d2cb28cef58d564ac88406fbb0a1afd906f54b0/ViirLogo.png)
 
 For help or discussion of Viir Su'um, please join our **[discord](https://discord.gg/T3XQky6g9c)**
 
@@ -9,7 +9,7 @@ _This Readme is still in development check back for updated info_
 
 ## Summary
 
-A fresh new modlist with a vanilla feel featuring [NGVO](https://www.nexusmods.com/skyrimspecialedition/mods/119972) visuals thanks to [BiggieBoss's](https://www.youtube.com/@biggie_boss) beautiful modlist combined with new quests, locations, combat, and features with more to come. Based heavily off popular modlists with my own tweaks and slimmed down for a more simple experience. 
+An immersive list now built on [Krentorran v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/119972) with some prefered modifications. A **No Frills** Requiem list going back to the basics for a simple experience. Focusing on small immersive additions instead of major content for a vanilla style feel with increased difficulty Viir Su'um is back! 
 
 ---
 
@@ -101,9 +101,9 @@ Next set up your MCM Settings.
 
 ### IMPORTANT SETUP INSTRUCTIONS
 
-Hit ESC to open the MENU and select the option **Mod Config**. There may be a short delay while the settings are caching. Scroll down to **MCM Recorder** and run the Viir Su'um Recording. If any errors show on the screen manually visit those in **Mod Config** (_Feel free to look through all included settings to make any tweaks_)
+*NOW WITH SETTINGS LOADERS VIIR SU'UM COMES WITH A DEFAULT CONFIGURATION*
 
-After the recording is finished hit **_Backspace_** to open Immersive Equipment Displays. In the top left select file>import/export. In the popup select the drop down for Viir Su'um and click **_import_**, hit **ESC** to close.
+Hit ESC to open the MENU and select the option **Mod Config**. There may be a short delay while the settings are caching. Scroll down to **Smooth Cam** and select a desired preset. (_Feel free to look through all included settings to make any tweaks_)
 
 Next Press **F11** to open Viir Su'um's custom keybind map and get familiar with the custom keybinds for the various features
 
@@ -137,26 +137,28 @@ Please submit any issues to the discord in the appropriate support channel.
   +  Survival Mode Improved
   +  Travel Mechanics FastTravel/Paragliding
   +  Immersive First/Third Person Animations
-  +  Religion Mechanics
-  +  Vampire/Werewolf Overhaul
+  +  Religion Mechanics (Wintersun)
+  +  Vampire/Werewolf Overhaul (Growl/Sacralidge)
+  +  Hammer and Whetstone (Portable Tempering)
 + New Combat Mechanics
-  +  Archery Overhaul
-  +  MCO
-  +  Poise
-  +  Dodge Mechanics
+  +  BFCO
+   + For Honor moveset (Converted no charge attacks) 
+  +  Poise (for Staggering)
+  +  Dodge Mechanics (Perk locked with both light and heavy options)
+    +  Including Bow (Dynamic Dodge Shot)
 + New Magic
- + Apocalypse
- + KittyTails Magic 
+  + Apocalypse
+ +  
 
 ### Quests
 + _Full list soon_
-+ Most Vanilla Quest Expansions
-+ Olenveld
-+ Darkend
-+ Sirenroot
-+ Siege At Icemoth
-+ Gravewind
-+ Legends of Aetherium
++ Vanilla/DLC Quest Expansions
++ Missives
++ Memorable Bounties
++ Heart of the Reach
++ 
++ 
++ 
 
 ### New things
 + _Full list soon_
@@ -165,7 +167,7 @@ Please submit any issues to the discord in the appropriate support channel.
   + Snow Elf
 + New Faction - Beseryk
   + Allows for Werebear Transformation  
-+ Custom Armors's with race based DISTR
++ 
 
 
 </details>
@@ -181,7 +183,7 @@ To uninstall Viir Su'um simply delete the install folder.
 
 ## Credits
 
- + **[BiggieBoss](https://www.youtube.com/@biggie_boss)** - NGVO Modlist (Visuals Base)
+ + **[Alaxouche](https://next.nexusmods.com/profile/AlaxoucheModding?gameId=1704)** - Krentoraan (Visuals Base)
  + The Authors who created the content to make this possible
 
 ---
