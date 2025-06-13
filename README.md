@@ -142,11 +142,10 @@ Please submit any issues to the discord in the appropriate support channel.
   +  New Immersive Passive Critters in Areas
 + New Combat Mechanics
   +  BFCO
-   + For Honor moveset (Converted no charge attacks) 
-  +  Poise (for Staggering)
+  + Chocolate Poise (for Staggering)
   +  Dodge Mechanics (Perk locked with both light and heavy options)
     + Different dodge animations for combat/non-combat  
-    + Dynamic Dodge Shot (Perk Locked with only Evasion Perk Tree)
+    + Dynamic Dodge Shot (Only with Evasion "Dodge" Perk)
 + New Magic
  + (tome distribution to npcs) 
   + Apocalypse
