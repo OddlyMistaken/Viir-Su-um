@@ -103,7 +103,7 @@ Next set up your MCM Settings.
 
 *NOW WITH SETTINGS LOADERS VIIR SU'UM COMES WITH A DEFAULT CONFIGURATION*
 
-Hit ESC to open the MENU and select the option **Mod Config**. There may be a short delay while the settings are caching. Scroll down to **Smooth Cam** and select a desired preset. (_Feel free to look through all included settings to make any tweaks_)
+Hit ESC to open the MENU and select the option **Mod Config**. There may be a short delay while mods are loading/settings are caching. Scroll down to **Smooth Cam** and select a desired preset. (_Feel free to look through all included settings to make any tweaks_)
 
 Next Press **F11** to open Viir Su'um's custom keybind map and get familiar with the custom keybinds for the various features
 
@@ -132,24 +132,34 @@ Please submit any issues to the discord in the appropriate support channel.
 
 ### Gameplay
 + _Full list soon_
-+ Immersion
-  +  Requiem
-  +  SkyParkour/(coming soon)Paragliding
-  +  Religion Mechanics (Wintersun)
-  +  Vampire/Werewolf Overhaul (Growl/Sacrilege)
-  +  Hammer and Whetstone (Portable Tempering)
-  +  NPC Spell Variety AI
-  +  New Immersive Passive Critters in Areas
++ Immersion 
+  + Requiem
+     + Custom LLI Distribution 
+  + SkyParkour/(coming soon)Paragliding
+  + Religion Mechanics (Wintersun)
+  + Vampire/Werewolf Overhaul (Growl/Sacrilege)
+  + Hammer and Whetstone (Portable Tempering)
+  + NPC Spell Variety AI
+  + New Immersive Passive Critters in Areas
+     + Sewer Rats
+     + Frogs
+     + Sea Turtles
+     + Fiendroth Beetles
+     + Bantam Guars 
+       + New food recipes for the meat drops
+  + Diverse Clothing Distribution to NPCS 
+  + Custom Obody Distribution
 + New Combat Mechanics
-  +  BFCO
+  + BFCO
   + Chocolate Poise (for Staggering)
-  +  Dodge Mechanics (Perk locked with both light and heavy options)
-    + Different dodge animations for combat/non-combat  
-    + Dynamic Dodge Shot (Only with Evasion "Dodge" Perk)
+  + Dodge Mechanics (Perk locked with both light and heavy options)
+     + Different dodge animations for combat/non-combat  
+     + Dynamic Dodge Shot (Only with Evasion "Dodge" Perk)
 + New Magic
- + (tome distribution to npcs) 
+  + Novice Bolt Spells
   + Apocalypse
- +  Survival Spells
+    + (Tome distribution to npcs)
+  + Survival Spells
 
 ### Quests
 + _Full list soon_
@@ -157,8 +167,8 @@ Please submit any issues to the discord in the appropriate support channel.
 + Missives
 + Memorable Bounties
 + Heart of the Reach
-+ 
-+ 
++ Sirenroot
++ Morthal Barrow
 + 
 
 ### New things
